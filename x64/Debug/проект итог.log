@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (проект итог.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SourceFinalFunction.cpp
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(26,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(36,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(171,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(181,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SourceFinalProg.cpp
+  Создание кода...
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(315,1): warning C4715: searchByPriority: значение возвращается не при всех путях выполнения
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(353,1): warning C4715: searchByDateTime: значение возвращается не при всех путях выполнения
+C:\Users\sofia\Downloads\проект итог\проект итог\SourceFinalFunction.cpp(442,1): warning C4715: compareDateTime: значение возвращается не при всех путях выполнения
+  проект итог.vcxproj -> C:\Users\sofia\Downloads\проект итог\x64\Debug\ProjectFinal.exe
